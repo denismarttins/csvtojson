@@ -1,2 +1,2 @@
 # csvtojson
- Conver csv file to json file
+ Convert csv file to json file
